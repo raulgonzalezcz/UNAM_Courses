@@ -6,5 +6,5 @@ Example of simple applications that demonstrate my skills of programming languag
 
 ## Author
 **Raúl González Cruz**
->*Computer Systems Engineer, UDLAP*
+>*Computer Systems Engineer, UDLAP*\
 >*Master in Science and Engineering Computer, UNAM*
